@@ -1,0 +1,11 @@
+baseURL = "https://pabloariasmora.com/"
+languageCode = "en-us"
+title = "Pablo's blog"
+theme = "m10c"
+author = "Pablo Arias Mora"
+description = "Just another simple blog"
+
+[[params.social]]
+  name = "github"
+  url = "https://github.com/pabloariasmora"
+
